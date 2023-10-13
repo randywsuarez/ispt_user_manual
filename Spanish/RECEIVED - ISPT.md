@@ -36,9 +36,9 @@ A continuación tenemos un ejemplo del proceso completo:
 
    ![Pre-alert con series](https://drive.google.com/uc?export=download&id=1PhkJjk58Fk61dyUrSZlag4feGK-Tb8Wa)
 
-3. Procedemos a crear nuestra pre-alerta a la estructura que necesita el sistema. Podemos bajar el documento de [aquí](https://docs.google.com/spreadsheets/d/1REM3FfUpX5WXRuRatYYMBGETFXZfLnup/edit?usp=drive_link&ouid=115837206541748972044&rtpof=true&sd=true)
+3. Procedemos a crear nuestra pre-alerta a la estructura que necesita el sistema. Podemos bajar el documento de [aquí](https://drive.google.com/uc?export=download&id=1REM3FfUpX5WXRuRatYYMBGETFXZfLnup)
 
-   [![File](https://drive.google.com/uc?export=download&id=1S3ErZS2mAbZbV_TgvRETqeK3YJGYBckV)](https://docs.google.com/spreadsheets/d/1REM3FfUpX5WXRuRatYYMBGETFXZfLnup/edit?usp=drive_link&ouid=115837206541748972044&rtpof=true&sd=true)
+   [![File](https://drive.google.com/uc?export=download&id=1S3ErZS2mAbZbV_TgvRETqeK3YJGYBckV)](https://drive.google.com/uc?export=download&id=1REM3FfUpX5WXRuRatYYMBGETFXZfLnup)
 
    **Estructura**
 
@@ -55,6 +55,10 @@ A continuación tenemos un ejemplo del proceso completo:
    - **SN y Label (D3 y D4):** Colocaremos el mismo valor del serie del articulo y si este no trae usaremos el Label de FEDEX que es el SLP.
 
    - **QTY (F3):** Es la cantidad del producto. Si cada articulo tiene su seria el valor de este seria 1 pero si este no tiene Serial sino Label y mas de un articulo colocamos el label y x cantidad de articulo que llego.
+
+     > Volvemos a repetir hasta tener todos los productos en la plantilla.
+
+     ![Estructura](https://drive.google.com/uc?export=download&id=1CnF5Z5_H0qvOfCpV6HeMweMlDb_es2if)
 
      | ![Label 1 articulo](https://drive.google.com/uc?export=download&id=1wZjlLYQTb-PPdodcdSVpkIydzt_GhnA0) | ![Label mas de un articulo](https://drive.google.com/uc?export=download&id=1FZOBk_h1uuo-PDpUEkkqJ71SEpQR61te) |
      | ------------------------------------------------------------ | ------------------------------------------------------------ |
